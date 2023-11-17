@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Begrussung", "Begrussung\Be
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adresserfassung", "Adresserfassung\Adresserfassung.csproj", "{28AD7231-18D1-416A-AB69-C1B35DEAA36E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition", "Addition\Addition.csproj", "{179929D6-B406-49D3-81CC-906BA4431D97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{28AD7231-18D1-416A-AB69-C1B35DEAA36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28AD7231-18D1-416A-AB69-C1B35DEAA36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28AD7231-18D1-416A-AB69-C1B35DEAA36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179929D6-B406-49D3-81CC-906BA4431D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179929D6-B406-49D3-81CC-906BA4431D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179929D6-B406-49D3-81CC-906BA4431D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179929D6-B406-49D3-81CC-906BA4431D97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
