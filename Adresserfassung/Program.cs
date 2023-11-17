@@ -1,6 +1,10 @@
 ﻿namespace Adresserfassung {
     internal class Program {
         static void Main(string[] args) {
+            StartAdress();
+        }
+
+        private static void StartAdress() {
             String name;
             String vorname;
             String plz = "";
